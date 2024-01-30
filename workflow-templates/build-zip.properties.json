@@ -1,0 +1,5 @@
+{
+    "name": "Build release zip",
+    "description": "This Action will build a zip archive of your WordPress plugin and attach that archive as an artifact, allowing you to download and test prior to deploying any changes to WordPress.org. This gives you the peace of mind knowing you've tested exactly what will be deployed.",
+    "iconName": "octicon file-zip"
+}
